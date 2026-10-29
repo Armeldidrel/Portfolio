@@ -42,7 +42,7 @@ export default function Contact() {
               <MapPin size={14} strokeWidth={1.8} />
               Lyon, France
             </span>
-            <a href="/CV-Armel-Gania.docx" download>
+            <a href="/CV-Armel-Gania.pdf" download>
               <Download size={14} strokeWidth={1.8} />
               Télécharger le CV
             </a>

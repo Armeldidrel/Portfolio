@@ -1,4 +1,4 @@
-import CursorGlow from './components/CursorGlow';
+  import CursorGlow from './components/CursorGlow';
 import ScrollProgress from './components/ScrollProgress';
 import Nav from './components/Nav';
 import Hero from './components/Hero';

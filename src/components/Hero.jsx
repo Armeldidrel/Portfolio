@@ -63,7 +63,7 @@ export default function Hero() {
                 Voir mes projets
                 <ArrowDown size={16} strokeWidth={2} />
               </a>
-              <a className="btn btn-ghost" href="/CV-Armel-Gania.docx" download>
+              <a className="btn btn-ghost" href="/CV-Armel-Gania.pdf" download>
                 <Download size={15} strokeWidth={1.8} />
                 Télécharger le CV
               </a>
